@@ -1,0 +1,18 @@
+{
+  "Bus_locators": {
+    "type_of_vcl": "//div[@class='sc-1f95z5i-6 efiPzM']",
+    "From_bus": "//input[@placeholder='Enter Source']",
+    "DD_first_option": "//div[@role='option']",
+    "TO_bus": "//input[@placeholder='Enter Destination']",
+    "Sarch_button": "//button[@data-testid='searchBusBtn']",
+    "Bus_calender": "//input[@data-testid='openCheckinCalendar']",
+    "Bus_Date": "//li[@style='color: black;']",
+    "Update_Search":"//span[@data-testid='searchBusBtnSRP']",
+    "filter_Type": "//span[@class='FiltersBlockstyles__TabIconWrap-sc-v6hq3g-0 bRgIPn']",
+    "first_bus_Select_seat": "//div[@class='SrpActiveCardstyles__PayBtnWrapDiv-sc-yk1110-31 gowyjz']",
+    "Middle_sleeper_seat": "//div[@class='SeatWithTooltipstyles__BusSleeper-sc-dkrka-1 eUNBHp']",
+    "Dropping_point": "//div[@class='LocationPointsstyles__listContent-sc-4474db-1 jSSiih']",
+    "continue_button": "//button[@class='SelectSeatTabContentstyles__Button-sc-aw7o7o-9 cZetwz']",
+    "Header_of_Booking_page": "//header[@class='NewReviewstyle__PageHeader-sc-klqyss-2 hFIKVb']"
+  }
+  }
