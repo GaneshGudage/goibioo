@@ -1,0 +1,21 @@
+{
+    "train_locators":{
+        
+    "type_of_vcl": "//div[@class='sc-1f95z5i-6 efiPzM']",
+    "From_train": "//p[@class='styles_FswFldTitle__0nABI']",
+    "DD_first_option_Train": "//li[@class='styles_FswAutoCompItem__RE1dP']",
+    "TO_train": "//p[@class='styles_FswFldTitle__0nABI']",
+    "train_stetus":"//li[@class='styles_FswTripTypeItem__aPaXl ']",
+    "Sarch_button": "//button[@data-testid='searchBusBtn']",
+    "train_calender": "//p[@class='styles_FswFldTitle__0nABI']",
+    "train_Date": "//p[@class='styles_dayCmp__calDate__heiRT']",
+    "Train_Search":"//span[@class='styles_FswSearchCta__Tf7s4']",
+    "Filter_For_available_only": "//label[@for='Show available only0']",
+    "first_Train_Select": "//div[@class='TrainCard_trnCrd__avlCnt__JxH7z']",
+    "comfirmation_page": "//main[@class='TRMComponent_revwPage__main__Fhi_A']",
+    "Middle_sleeper_seat": "//div[@class='SeatWithTooltipstyles__BusSleeper-sc-dkrka-1 eUNBHp']",
+    "Dropping_point": "//div[@class='LocationPointsstyles__listContent-sc-4474db-1 jSSiih']",
+    "continue_button": "//button[@class='SelectSeatTabContentstyles__Button-sc-aw7o7o-9 cZetwz']",
+    "Header_of_Booking_page": "//header[@class='NewReviewstyle__PageHeader-sc-klqyss-2 hFIKVb']"
+    }
+}
